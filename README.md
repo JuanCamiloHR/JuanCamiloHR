@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Juan Camilo</h1>
-<h3 align="center">Un desarrollador de software apasionado</h3>
+<h1 align="center">Hi 👋, I am Juan Camilo</h1>
+<h3 align="center">A passionate software developer</h3>
 
 - 💬 Ask me about **.NET, Laravel, Angular**
 
