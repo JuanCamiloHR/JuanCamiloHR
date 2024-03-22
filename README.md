@@ -22,3 +22,8 @@
 </a>
 </p>
 
+
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=juancamilohr&show_icons=true)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juancamilohr&label=Profile%20views&color=0e75b6&style=flat" alt="juancamilohr" /> </p>
+
