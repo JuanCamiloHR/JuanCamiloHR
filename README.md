@@ -1,6 +1,5 @@
 
-![Dev](https://github.com/JuanCamiloHR/JuanCamiloHR/assets/125661830/309aa5ef-6f97-4109-8fbe-2469a5cc1a10)
-
+![Dev](https://github.com/JuanCamiloHR/JuanCamiloHR/assets/125661830/b0851b02-1e1d-447e-a82c-6fd3d8863633)
 
 <h1 align="center">Hi 👋, I am Juan Camilo</h1>
 <h3 align="center">A passionate software developer</h3>
