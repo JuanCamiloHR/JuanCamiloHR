@@ -1,3 +1,6 @@
+
+![Dev](https://github.com/JuanCamiloHR/JuanCamiloHR/assets/125661830/36571e02-dd9e-4be4-b438-f1ecfad5befe)
+
 <h1 align="center">Hi 👋, I am Juan Camilo</h1>
 <h3 align="center">A passionate software developer</h3>
 
